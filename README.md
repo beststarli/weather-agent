@@ -4,6 +4,9 @@
 
 ## 如何运行
 1. 克隆仓库并进入项目目录。
+    ```bash
+    git clone https://github.com/your-username/agent-loop.git
+    cd agent-loop
 2. 安装依赖：
    ```bash
    npm install
